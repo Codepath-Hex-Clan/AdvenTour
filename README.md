@@ -8,16 +8,17 @@ Tourism App
 
 **Required Must-have Stories**
 
- * [Have log-in functionality]
- * [Get user location]
- * [Recommend locations]
- * [Marking favorite locations]
- * [Social media platform- commenting]
+ * [1: Get user location]
+ * [2: Recommend locations]
+ * [3: Marking favorite locations]
+ * [4: Have log-in functionality]
+ * [5: Rating for places]
 
 **Optional Nice-to-have Stories**
 
- * [Chat with other users]
+ * [Chat with other users](maybe since it might take a lot a screens)
  * [Storing the location of users on database]
+ * [Commeting]
 
 ## 2. Screen Archetypes
 
@@ -30,6 +31,7 @@ Tourism App
  * [Detail]
    * [Viewing detailed info of location]
    * [Marking as favourite]
+   * [Rate location]
 
 
 ## 3. Navigation
