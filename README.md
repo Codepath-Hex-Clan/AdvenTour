@@ -55,3 +55,7 @@ Tourism App
  * [Detail Screen]
    * [To Comment Screen]
  * [Setting Screen]
+ 
+ **Figma**
+ 
+ Link: https://www.figma.com/file/nQC2yjzv2tWAcz7FKzGguM/Codepath-AdvenTour-lofil-wireframe?node-id=0%3A1
