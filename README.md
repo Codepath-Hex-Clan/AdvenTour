@@ -59,3 +59,5 @@ Tourism App
  **Figma**
  
  Link: https://www.figma.com/file/nQC2yjzv2tWAcz7FKzGguM/Codepath-AdvenTour-lofil-wireframe?node-id=0%3A1
+ 
+ Link to Group Milestones Week 6: https://docs.google.com/document/d/10QEDXAPYllMGNMqcCBv-CbNGZrSi8HlP1SYfsXN1508/edit
