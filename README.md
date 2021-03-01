@@ -1,6 +1,7 @@
 # AdvenTour
 
 Tourism App
+* AdvenTour is a an app targeted for tourists who want to find nearby resturants based on their current location. Their location will give them a distance of the closest restraunts, alongside a description, image, ratings, comments, and comment that the user will want to add. Every user will have their own account so they can mark and keep track of their favorite places. This will include a login a screen every time they open the app. Users will also be able to customize their settings.
 
 # README
 
