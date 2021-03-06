@@ -63,5 +63,7 @@ Tourism App
  
  Link to Group Milestones Week 6: https://docs.google.com/document/d/10QEDXAPYllMGNMqcCBv-CbNGZrSi8HlP1SYfsXN1508/edit
  
- <img src='https://github.com/omart980/InstaClone/blob/master/RefreshGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='https://github.com/Codepath-Hex-Clan/AdvenTour/blob/master/Log.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ 
+  <img src='https://github.com/Codepath-Hex-Clan/AdvenTour/blob/master/Maps.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
