@@ -32,6 +32,9 @@ public class MainActivity extends AppCompatActivity{
     public static final String TAG = "MainActivity";
     List<getRestaurants> restaurants;
 
+// add this to android manifest , where it says meta data
+    //android:value="AIzaSyCq7zkukn5JAXb0wpL_PCRTrf50B6xxgeo" />
+
     // Explanations: Each fragment is part of the xml fragments
     @Override
     protected void onCreate(Bundle savedInstanceState) {
