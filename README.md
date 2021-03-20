@@ -65,5 +65,8 @@ Tourism App
  
  <img src='https://github.com/Codepath-Hex-Clan/AdvenTour/blob/master/Log.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
-  <img src='https://github.com/Codepath-Hex-Clan/AdvenTour/blob/master/Maps.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='https://github.com/Codepath-Hex-Clan/AdvenTour/blob/master/Maps.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  
+ <img src='https://github.com/Codepath-Hex-Clan/AdvenTour/blob/master/Search.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
+
